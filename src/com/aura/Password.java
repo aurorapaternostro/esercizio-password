@@ -2,6 +2,8 @@
  * Created by aura on 03/02/16.
  */
 
+package com.aura;
+
 import javax.swing.*;
 import javax.swing.event.*;
 import javax.swing.event.DocumentListener;
